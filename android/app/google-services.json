@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862816404461",
+    "project_id": "metaozce2023",
+    "storage_bucket": "metaozce2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862816404461:android:8ee6f16f0c028af5bbdde4",
+        "android_client_info": {
+          "package_name": "com.example.personel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862816404461-bo14a9bu05csgdks771sk3p62q1e59dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6zUw67cR1gvs6DP5_nplXjBe-hhdfQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862816404461-bo14a9bu05csgdks771sk3p62q1e59dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
