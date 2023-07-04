@@ -1,6 +1,6 @@
-# personel_app
+# MetaOzce2023_PersonelApp
 
-A new Flutter project.
+The mobile application used by hotel staff was developed.
 
 ## Getting Started
 
